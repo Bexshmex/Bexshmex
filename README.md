@@ -30,19 +30,12 @@
 
 ### 🚀 What I'm Working On
 
-- 🌱 Learning: **…what you're exploring now Python, HTML, CSS, React**
+- 🌱 Learning: **Python, HTML, CSS, React**
 - 🧪 Interested in: **Systems programming, web performance, guitar playing**
 - 💬 Ask me about: **Python tooling, C++ optimization, React best practices**
-- 🤝 Open to collaborate on: **Open-source projects and hackathon ideas**
+- 🤝 Open to collaborate on: **Open-source projects, hackathon ideas, internships**
 
 ---
-
-### 🗂 Featured Projects
-
-- **Project Name** – short 1–2 line description and key tech.  
-  `Python · React` · [Repo](https://github.com/Bexultan/your-repo) • [Demo](https://your-demo-link)
-- **Another Project** – …  
-  `C++ · HTML/CSS`
 
 ---
 
