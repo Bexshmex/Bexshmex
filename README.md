@@ -5,7 +5,7 @@
   <br/>
   <a href="mailto:bekazhas7295310473@gmail.com">Email</a> ·
   <a href="https:[https://t.me/ohaibex](https://t.me/ohaibex)">Telegram</a> ·
-  <a href="[https:https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/](https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/)">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/">LinkedIn</a> ·
 </p>
 
 ---
