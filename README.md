@@ -18,11 +18,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-000?logo=react)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="banner" src="assets/banner-light.png" width="100%">
-</picture>
 
 ---
 
@@ -49,8 +44,6 @@
 - **Another Project** – …  
   `C++ · HTML/CSS`
 
-> Add screenshots/GIFs to `assets/` and embed them here for more visual appeal.
-
 ---
 
 ### 📫 How to reach me
@@ -61,4 +54,3 @@
 
 ---
 
-<sub>⚡ Fun fact: Replace this line with something quirky about you.</sub>
