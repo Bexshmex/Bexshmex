@@ -8,10 +8,9 @@
 <p align="center">
   Passionate Developer • Python & C++ Enthusiast • Frontend Explorer (HTML/CSS/React)
   <br/>
-  <a href="mailto:your.email@example.com">Email</a> ·
-  <a href="https://t.me/your_telegram">Telegram</a> ·
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> ·
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="mailto:bekazhas7295310473@gmail.com">Email</a> ·
+  <a href="https:https://t.me/ohaibex">Telegram</a> ·
+  <a href="https:https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/">LinkedIn</a> ·
 </p>
 
 ---
@@ -41,9 +40,8 @@
 
 ### 🚀 What I'm Working On
 
-- 🔭 Currently building: **…describe your current project…**
-- 🌱 Learning: **…what you're exploring now (e.g., backend frameworks, algorithms)…**
-- 🧪 Interested in: **AI/ML, systems programming, web performance, etc.**
+- 🌱 Learning: **…what you're exploring now Python, HTML, CSS, React**
+- 🧪 Interested in: **Systems programming, web performance, guitar playing**
 - 💬 Ask me about: **Python tooling, C++ optimization, React best practices**
 - 🤝 Open to collaborate on: **Open-source projects and hackathon ideas**
 
@@ -62,9 +60,9 @@
 
 ### 📫 How to reach me
 
-- Email: **your.email@example.com**  
-- Telegram: **@your_telegram**  
-- LinkedIn: **/in/your-linkedin**
+- Email: **bekazhas7295310473@gmail.com**  
+- Telegram: **@zhasbeka**  
+- LinkedIn: **https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/**
 
 ---
 
