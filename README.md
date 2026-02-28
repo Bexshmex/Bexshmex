@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 GitHub Insights
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Bexultan&show_icons=true&theme=radical&hide_border=true" alt="Bexultan's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bexultan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 
@@ -54,5 +46,6 @@
 
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"I'm blue, da-ba-dee, da-ba-di
+Da-ba-dee, da-ba-di, da-ba-dee, da-ba-di"</i>
 </p>
