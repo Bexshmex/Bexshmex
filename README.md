@@ -1,48 +1,58 @@
 <h1 align="center">Hi, I'm Bexultan 👋</h1>
 
 <p align="center">
-  Passionate Developer • Python & C++ Enthusiast • Frontend Explorer (HTML/CSS/React)
+  <b>Software Engineer | Python Specialist</b>
   <br/>
-  <a href="mailto:bekazhas7295310473@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/">LinkedIn</a> ·
+  <i>Architecting Robust Backend Systems with Modern Frontend Integration</i>
+</p>
+
+<p align="center">
+  <a href="mailto:bekazhas7295310473@gmail.com">Email</a> · 
+  <a href="https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/">LinkedIn</a> · 
+  <a href="https://t.me/zhasbeka">Telegram</a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-000?logo=react)
+#### 🖥 Backend & Core Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
----
-
-### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bexultan&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bexultan&layout=compact&hide_border=true)
+#### 🌐 Web & Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 Focus & Expertise
 
-- 🌱 Learning: **Python, HTML, CSS, React**
-- 🧪 Interested in: **Systems programming, web performance, guitar playing**
-- 💬 Ask me about: **Python tooling, C++ optimization, React best practices**
-- 🤝 Open to collaborate on: **Open-source projects, hackathon ideas, internships**
-
----
+- ⚙️ **Backend Engineering:** Deep-diving into **Python** for scalable services
+- 🎨 **Full-Stack Capability:** Crafting responsive user interfaces with **HTML, CSS, and JavaScript**, and building interactive SPAs using **React**.
+- 🧪 **Current Interests:** System architecture, memory management, and enhancing web performance.
+- 🤝 **Collaboration:** Open to contributing to Open-Source projects, participating in Hackathons, and exploring Internship opportunities.
 
 ---
 
-### 📫 How to reach me
+### 📈 GitHub Insights
 
-- Email: **bekazhas7295310473@gmail.com**  
-- Telegram: **@zhasbeka**  
-- LinkedIn: **https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/**
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Bexultan&show_icons=true&theme=radical&hide_border=true" alt="Bexultan's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bexultan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
+### 📫 Let's Connect!
+
+- 📧 Email: **[bekazhas7295310473@gmail.com](mailto:bekazhas7295310473@gmail.com)**
+- ✈️ Telegram: **[@zhasbeka](https://t.me/zhasbeka)**
+- 👔 LinkedIn: **[Bexultan Zhaskairat](https://www.linkedin.com/in/bexultan-zhaskairat-48343a335/)**
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
