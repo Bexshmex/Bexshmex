@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Bexultan 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Python Specialist</b>
+  <b>Software Engineer | Data Science & MLOps Enthusiast</b>
   <br/>
-  <i>Architecting Robust Backend Systems with Modern Frontend Integration</i>
+  <i>Architecting Robust Backend Systems & Monitoring Machine Learning Models</i>
 </p>
 
 <p align="center">
@@ -16,8 +16,16 @@
 
 ### 🛠 Tech Stack
 
-#### 🖥 Backend & Core Development
+#### 🧠 Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### 🖥 Backend & Core Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### 🌐 Web & Frontend Development
@@ -30,13 +38,12 @@
 
 ### 🚀 Focus & Expertise
 
-- ⚙️ **Backend Engineering:** Deep-diving into **Python** for scalable services
+- 📊 **Data Science & ML:** Passionate about data analysis, machine learning algorithms, and building reliable ML pipelines.
+- ⚙️ **Backend & MLOps:** Deep-diving into **Python** for scalable services, API development (FastAPI/Flask), and implementing monitoring systems for data/concept drift and model performance.
 - 🎨 **Full-Stack Capability:** Crafting responsive user interfaces with **HTML, CSS, and JavaScript**, and building interactive SPAs using **React**.
-- 🧪 **Current Interests:** System architecture, memory management, and enhancing web performance.
 - 🤝 **Collaboration:** Open to contributing to Open-Source projects, participating in Hackathons, and exploring Internship opportunities.
 
 ---
-
 
 ### 📫 Let's Connect!
 
